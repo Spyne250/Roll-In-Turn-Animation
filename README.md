@@ -2,7 +2,7 @@
 Modifies the animation event data to allow rolling at any point in the turning animation for ELDEN RING.
 
 # Installation
-This is a file replacement mod, so there are a few ways to install but the prefered way is ModEngine2 you can grab that here: https://github.com/soulsmods/ModEngine2/releases
+This is a file replacement mod, so there are a few ways to install but the preferred way is ModEngine2 you can grab that here: https://github.com/soulsmods/ModEngine2/releases
 
 You probably should not be online with this, ModEngine2 take care of that for you.
 1. Get ModEngine2
